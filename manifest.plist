@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yujun.ifootball</string>
+				<string>com.kjt.iphone</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iFootballIPhone</string>
+				<string>跨境通商城</string>
 			</dict>
 		</dict>
 	</array>
