@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.62.25:8083/512.png</string>
+					<string>http://192.168.62.25:8083/512icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
