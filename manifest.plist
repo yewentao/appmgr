@@ -28,14 +28,14 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
+	                        <key>bundle-identifier</key>
 				<string>com.kjt.iphone</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>2.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>跨境通商城</string>
+				<string>KJT</string>
 			</dict>
 		</dict>
 	</array>
